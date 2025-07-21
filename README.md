@@ -8,3 +8,5 @@ Currently, two official crates are available:
 - [@tokio/plugin-runtime-swc](https://github.com/tokio/tokio-plugin-swc) uses [SWC](https://swc.rs/) for Quick Compile
 
 # PR Merge: 2025-10-15 - refactor/merge-3018
+
+# PR Update: 2025-10-15 - refactor/update-4502
